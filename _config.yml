@@ -1,0 +1,15 @@
+# Site settings
+title: Andwa
+#email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  The thoughts and processes of A.S.1. Topics include but aren't limited to: 
+  the impact of [technology](http://technology.com) on society, the nature of 
+  the world as seen through my lens, and short pieces of fiction. 
+  Make yourself comfortable, I hope you stick around.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.co" # the base hostname & protocol for your site
+twitter_username: andwa
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
